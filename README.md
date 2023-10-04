@@ -15,7 +15,8 @@
 3. Now you need to use [Model Scriber](https://github.com/SDmodding/ModelScriber) and use the script something like this:
    - `Scribe Model Model_T MapEditor\YourCustomCategory`
    - The `YourCustomCategory` is the folder you created inside `MapEditor`, it doesn't matter how you name it just make sure it's scribed and moved to the same folder!
-5. After you scribe your model, you just simply copy it to that folder and then load game and it should show as models list.
+5. After you scribe your model, you just simply copy it to that folder and then load game and it should show inside model list.
+6. You can put how many models you want inside the category.
 
 # Why not full version?
 - It takes time to do develop stuff like this and when you're sponsoring me, it motivates me to still work on those projects related to Sleeping Dogs even more.
