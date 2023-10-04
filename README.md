@@ -1,6 +1,6 @@
-[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-MapEditorFree?label=Current%20Release&color=red)](https://github.com/sneakyevil/SD-MapEditorFree/releases/latest/download/MapEditor.zip)
-![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/total?label=Total%20Downloads&color=red)
-![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/latest/total?color=red&label=Latest%20Downloads)
+[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-MapEditorFree?label=Current%20Release&color=red&0)](https://github.com/sneakyevil/SD-MapEditorFree/releases/latest/download/MapEditor.zip)
+![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/total?label=Total%20Downloads&color=red&0)
+![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/latest/total?color=red&label=Latest%20Downloads&0)
 
 # Installation
 1. First check readme from SDmodding org: [Here](https://github.com/SDmodding/.github/blob/main/profile/README.md)
