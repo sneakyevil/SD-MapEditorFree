@@ -1,6 +1,6 @@
-[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-MapEditorFree?label=Current%20Release&color=red&0)](https://github.com/sneakyevil/SD-MapEditorFree/releases/latest/download/MapEditor.zip)
-![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/total?label=Total%20Downloads&color=red&0)
-![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/latest/total?color=red&label=Latest%20Downloads&0)
+[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-MapEditorFree?label=Current%20Release&color=red)](https://github.com/sneakyevil/SD-MapEditorFree/releases/latest/download/MapEditor.zip)
+![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/total?label=Total%20Downloads&color=red)
+![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-MapEditorFree/latest/total?color=red&label=Latest%20Downloads)
 
 # Installation
 1. First check readme from SDmodding org: [Here](https://github.com/SDmodding/.github/blob/main/profile/README.md)
@@ -17,6 +17,12 @@
    - The `YourCustomCategory` is the folder you created inside `MapEditor`, it doesn't matter how you name it just make sure it's scribed and moved to the same folder!
 5. After you scribe your model, you just simply copy it to that folder and then load game and it should show inside model list.
 6. You can put how many models you want inside the category.
+
+### One texture multiple models
+1. Make sure all models are model scribed with same texture name.
+2. Then you rename each model file as ex. `Model~0` while texture file has name `Model_TS001`.
+3. The `~` is special character that will cut the model name and search for texture name.
+4. When you have models: `Model~WhatEver`,`Model~AnotherThing`,`Model~0` and texture with name `Model_TS001`, all of them will use that one texture.
 
 # Why not full version?
 - It takes time to do develop stuff like this and when you're sponsoring me, it motivates me to still work on those projects related to Sleeping Dogs even more.
